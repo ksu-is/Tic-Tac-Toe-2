@@ -24,3 +24,9 @@
 
 -[]Tracking your progress on planned and emerging tasks in your projectroadmap.md document
 
+#Sprint 3:
+
+-[]Finish Code
+
+-[] Create Powerpoint
+
